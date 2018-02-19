@@ -1,0 +1,20 @@
+[
+    {
+      "title": "The Imitation Game",
+      "storyline": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians.",
+      "poster": "the_imitation_game.jpg",
+      "trailer": "https://www.youtube.com/watch?v=S5CjKEFb-sM"
+    },
+    {
+      "title": "Inception",
+      "storyline": "A thief, who steals corporate secrets through the use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
+      "poster": "inception.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "storyline": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+      "poster": "pursuit_of_happyness.jpg",
+      "trailer": "https://www.youtube.com/watch?v=89Kq8SDyvfg"
+    }
+]
