@@ -6,8 +6,7 @@ import json
 def retrieve_movies(filename):
 
     # path that contains the poster images
-    poster_path = "file:///Users/matthewyasul/Documents/Programming Documents/" \
-        "FS_Nanodegree/Projects/movie_trailer/posters/{poster_name}"
+    poster_path = "posters/{poster_name}"
 
     #loads the data from the json file and transfer it to a dictionary variable
     with open(filename, 'r') as f:
